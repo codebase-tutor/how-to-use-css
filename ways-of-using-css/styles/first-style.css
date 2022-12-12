@@ -1,0 +1,15 @@
+p {
+	color: red
+}
+
+#green-text {
+	color: green
+}
+
+p.blue-text,
+.blue-text-2 {
+	color: blue;
+	font-weight: bold;
+	background-color: peachpuff;
+	padding: 16px;
+}
